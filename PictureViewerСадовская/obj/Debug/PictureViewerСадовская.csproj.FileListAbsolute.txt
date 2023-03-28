@@ -1,0 +1,11 @@
+C:\Users\Aleksandr\source\repos\PictureViewerСадовская\bin\Debug\PictureViewerСадовская.exe.config
+C:\Users\Aleksandr\source\repos\PictureViewerСадовская\bin\Debug\PictureViewerСадовская.exe
+C:\Users\Aleksandr\source\repos\PictureViewerСадовская\bin\Debug\PictureViewerСадовская.pdb
+C:\Users\Aleksandr\source\repos\PictureViewerСадовская\obj\Debug\PictureViewerСадовская.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\PictureViewerСадовская\obj\Debug\PictureViewerСадовская.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr\source\repos\PictureViewerСадовская\obj\Debug\PictureViewerСадовская.Form1.resources
+C:\Users\Aleksandr\source\repos\PictureViewerСадовская\obj\Debug\PictureViewerСадовская.Properties.Resources.resources
+C:\Users\Aleksandr\source\repos\PictureViewerСадовская\obj\Debug\PictureViewerСадовская.csproj.GenerateResource.cache
+C:\Users\Aleksandr\source\repos\PictureViewerСадовская\obj\Debug\PictureViewerСадовская.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\PictureViewerСадовская\obj\Debug\PictureViewerСадовская.exe
+C:\Users\Aleksandr\source\repos\PictureViewerСадовская\obj\Debug\PictureViewerСадовская.pdb
